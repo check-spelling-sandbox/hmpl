@@ -142,7 +142,7 @@ export default defineConfig({
                 },
                 {
                   label: "initId",
-                  link: "/block-helpers/request#iniid"
+                  link: "/block-helpers/request#initid"
                 },
                 {
                   label: "allowedContentTypes",
@@ -198,7 +198,7 @@ export default defineConfig({
               label: "HMPLAutoBodyOptions",
               link: "/types#hmplautobodyoptions"
             },
-            { label: "HMPLInitalStatus", link: "/types#hmplinitalstatus" },
+            { label: "HMPLInitialStatus", link: "/types#hmplinitialstatus" },
             {
               label: "HMPLIndicatorTrigger",
               link: "/types#hmplindicatortrigger"
